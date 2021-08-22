@@ -1,0 +1,253 @@
+.flex-container {
+    display: flex;
+  }
+.logo {
+    
+    margin-top: 50px;
+    margin-left: 50px;  
+}
+
+.header {
+    
+    margin-top: 60px;
+    margin-left:970px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+.intro-pic {
+    margin-top: 150px;
+    margin-left: 420px;
+}
+
+
+.first-h1 {
+    margin-top: 85px;
+    margin-left: 420px;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+.second-h1 {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 550px;
+    font-size: 40px;
+    color:white;
+}
+
+.body1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.content1 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.get-started-button {
+    margin-top: 30px;
+    margin-left: 628px;
+    width: 270px;
+    text-align: center;
+    height: 50px;
+    font-size: 'Raleway', sans-serif;
+    font-weight: 700;
+    background-color: hsl(176, 68%, 64%);
+    color: white;
+    border-top-right-radius: 30px 50%;
+    border-top-left-radius: 30px 50%;
+    border-bottom-right-radius: 30px 50%;
+    border-bottom-left-radius: 30px 50%;
+    cursor: pointer;
+}
+
+.acess-pic {
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+.security-pic {
+    margin-top:140px;
+    margin-left: 350px;
+}
+
+.grid-heading {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 60px;
+}
+
+.grid-content {
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.profile1 {
+    height: 190px;
+    width: 310px;
+    background-color: hsl(219, 30%, 18%);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    line-height: 5px;
+    margin-left: 210px;
+    margin-top: -15px;
+
+}
+.profile2 {
+    height: 190px;
+    width: 320px;
+    margin-left: 50px;
+    background-color: hsl(219, 30%, 18%);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    line-height: 5px;
+    margin-top: -15px;
+    
+    
+}
+.profile3 {
+    height: 190px;
+    width: 320px;
+    margin-left: 50px;
+    background-color: hsl(219, 30%, 18%);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    line-height: 5px;
+    margin-top: -15px;
+        
+}
+
+.testimony-pic {
+    border-radius: 50%; 
+    height: 50px; 
+    width: 50px;
+}
+
+.email-box {
+    background-color: hsl(217, 28%, 15%);
+    height: 280px;
+    width: 900px;
+    margin-top: -720px;
+    margin-left: 300px;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+.email-text {
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    border-top-right-radius: 30px 50%;
+    border-top-left-radius: 30px 50%;
+    border-bottom-right-radius: 30px 50%;
+    border-bottom-left-radius: 30px 50%;
+    color: black;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+.free-button {
+    cursor: pointer;
+    background-color: hsl(176, 68%, 64%);
+    border-top-right-radius: 30px 50%;
+    border-top-left-radius: 30px 50%;
+    border-bottom-right-radius: 30px 50%;
+    border-bottom-left-radius: 30px 50%;
+    height: 50px;
+    width: 200px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 700;
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+
+}
+
+.footer {
+    width: auto;
+    height: 500px;
+    background-color: hsl(216, 53%, 9%);
+    color: white;
+    margin-top: 380px;
+}
+
+
+.location {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.lorem {
+    margin-top: 60px;
+    margin-left: 30px;
+    line-height: 5px;
+    font-family: 'Open Sans', sans-serif;;
+}
+/* font-family: 'Raleway', sans-serif;*/
+/* font-family: 'Open Sans', sans-serif;*/
+
+.contact {
+    margin-left: 90px;
+    margin-top: 70px;
+}
+
+.about {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.terms {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+
+
+.terms p{
+    cursor: pointer;
+}
+
+.facebook {
+  background-color:white;
+  height: 35px;
+  width: 35px;
+}
+
+.facebook img{
+    cursor: pointer;
+}
+
+.attribution { font-size: 11px; text-align: center; color: white; margin-top: 400px;}
+.attribution a { color: skyblue; }
+
+.curve {
+    background-image: url(./images/bg-curvy-desktop.svg);
+    background-position: 0px 0px;
+    height: auto;
+    width: auto;
+}
+
+
